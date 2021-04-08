@@ -1,0 +1,21 @@
+<style media="screen">
+
+    body {
+      background-color: lightgrey
+    }
+
+    hr {
+      border-style: dotted none none none;
+      border-color: #A9A9A9;
+      border-width: 5px;
+      width: 25%
+
+    }
+
+    h1, h3 {
+      color: #4682B4;
+    }
+
+img{border-radius: 25px}
+
+</style>
